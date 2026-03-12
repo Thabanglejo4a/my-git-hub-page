@@ -61,3 +61,15 @@ img {
 main a[href^="mailto:"] {
 	color: #ff5722;
 	font-weight: bold;
+.get btn {
+	background color: black;
+	color: white;
+	padding: 12px 25px;
+	font size: 16px;
+	border:none;
+	cursor:pointer;
+}
+.get-btn:hover {
+background-color: silver;
+color: black;
+}
